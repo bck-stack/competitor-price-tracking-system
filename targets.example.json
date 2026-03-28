@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Example Book",
+    "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+    "price_selector": ".price_color",
+    "threshold_pct": 5.0
+  },
+  {
+    "name": "Another Product",
+    "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+    "price_selector": ".price_color",
+    "threshold_pct": 3.0
+  }
+]
